@@ -1,0 +1,365 @@
+[
+    {
+        "report_date": "2014-09-27",
+        "section": "profit_and_loss",
+        "net_sales": {
+            "products": null,
+            "services": null,
+            "total": 182795
+        },
+        "cost_of_sales": {
+            "products": null,
+            "services": null,
+            "total": 112258
+        },
+        "gross_margin": 70537,
+        "operating_expenses": {
+            "research_and_development": 6041,
+            "selling_general_and_administrative": 11993,
+            "total": 18034
+        },
+        "operating_income": 52503,
+        "other_income_or_expense_net": 980,
+        "income_before_tax": 53483,
+        "tax_provision": 13973,
+        "net_income": 39510,
+        "earnings_per_share": {
+            "basic": 6.49,
+            "diluted": 6.45
+        },
+        "shares_used_in_computing_eps": {
+            "basic": 6085572,
+            "diluted": 6122663
+        }
+    },
+    {
+        "report_date": "2015-09-26",
+        "section": "profit_and_loss",
+        "net_sales": {
+            "products": null,
+            "services": null,
+            "total": 233715
+        },
+        "cost_of_sales": {
+            "products": null,
+            "services": null,
+            "total": 140089
+        },
+        "gross_margin": 93626,
+        "operating_expenses": {
+            "research_and_development": 8067,
+            "selling_general_and_administrative": 14329,
+            "total": 22396
+        },
+        "operating_income": 71230,
+        "other_income_or_expense_net": 1285,
+        "income_before_tax": 72515,
+        "tax_provision": 19121,
+        "net_income": 53394,
+        "earnings_per_share": {
+            "basic": 9.28,
+            "diluted": 9.22
+        },
+        "shares_used_in_computing_eps": {
+            "basic": 5753421,
+            "diluted": 5793069
+        }
+    },
+    {
+        "report_date": "2016-09-24",
+        "section": "profit_and_loss",
+        "net_sales": {
+            "products": null,
+            "services": null,
+            "total": 215639
+        },
+        "cost_of_sales": {
+            "products": null,
+            "services": null,
+            "total": 131376
+        },
+        "gross_margin": 84263,
+        "operating_expenses": {
+            "research_and_development": 10045,
+            "selling_general_and_administrative": 14194,
+            "total": 24239
+        },
+        "operating_income": 60024,
+        "other_income_or_expense_net": 1348,
+        "income_before_tax": 61372,
+        "tax_provision": 15685,
+        "net_income": 45687,
+        "earnings_per_share": {
+            "basic": 8.35,
+            "diluted": 8.31
+        },
+        "shares_used_in_computing_eps": {
+            "basic": 5470820,
+            "diluted": 5500281
+        }
+    },
+    {
+        "report_date": "2017-09-30",
+        "section": "profit_and_loss",
+        "net_sales": {
+            "products": null,
+            "services": null,
+            "total": 229234
+        },
+        "cost_of_sales": {
+            "products": null,
+            "services": null,
+            "total": 141048
+        },
+        "gross_margin": 88186,
+        "operating_expenses": {
+            "research_and_development": 11581,
+            "selling_general_and_administrative": 15261,
+            "total": 26842
+        },
+        "operating_income": 61344,
+        "other_income_or_expense_net": 2745,
+        "income_before_tax": 64089,
+        "tax_provision": 15738,
+        "net_income": 48351,
+        "earnings_per_share": {
+            "basic": 9.27,
+            "diluted": 9.21
+        },
+        "shares_used_in_computing_eps": {
+            "basic": 5217242,
+            "diluted": 5251692
+        }
+    },
+    {
+        "report_date": "2018-09-29",
+        "section": "profit_and_loss",
+        "net_sales": {
+            "products": 225847,
+            "services": 39748,
+            "total": 265595
+        },
+        "cost_of_sales": {
+            "products": 148164,
+            "services": 15592,
+            "total": 163756
+        },
+        "gross_margin": 101839,
+        "operating_expenses": {
+            "research_and_development": 14236,
+            "selling_general_and_administrative": 16705,
+            "total": 30941
+        },
+        "operating_income": 70898,
+        "other_income_or_expense_net": 2005,
+        "income_before_tax": 72903,
+        "tax_provision": 13372,
+        "net_income": 59531,
+        "earnings_per_share": {
+            "basic": 3.0,
+            "diluted": 2.98
+        },
+        "shares_used_in_computing_eps": {
+            "basic": 19821510,
+            "diluted": 20000435
+        }
+    },
+    {
+        "report_date": "2019-09-28",
+        "section": "profit_and_loss",
+        "net_sales": {
+            "products": 213883,
+            "services": 46291,
+            "total": 260174
+        },
+        "cost_of_sales": {
+            "products": 144996,
+            "services": 16786,
+            "total": 161782
+        },
+        "gross_margin": 98392,
+        "operating_expenses": {
+            "research_and_development": 16217,
+            "selling_general_and_administrative": 18245,
+            "total": 34462
+        },
+        "operating_income": 63930,
+        "other_income_or_expense_net": 1807,
+        "income_before_tax": 65737,
+        "tax_provision": 10481,
+        "net_income": 55256,
+        "earnings_per_share": {
+            "basic": 2.99,
+            "diluted": 2.97
+        },
+        "shares_used_in_computing_eps": {
+            "basic": 18471336,
+            "diluted": 18595651
+        }
+    },
+    {
+        "report_date": "2020-09-26",
+        "section": "profit_and_loss",
+        "net_sales": {
+            "products": 220747,
+            "services": 53768,
+            "total": 274515
+        },
+        "cost_of_sales": {
+            "products": 151286,
+            "services": 18273,
+            "total": 169559
+        },
+        "gross_margin": 104956,
+        "operating_expenses": {
+            "research_and_development": 18752,
+            "selling_general_and_administrative": 19916,
+            "total": 38668
+        },
+        "operating_income": 66288,
+        "other_income_or_expense_net": 803,
+        "income_before_tax": 67091,
+        "tax_provision": 9680,
+        "net_income": 57411,
+        "earnings_per_share": {
+            "basic": 3.31,
+            "diluted": 3.28
+        },
+        "shares_used_in_computing_eps": {
+            "basic": 17352119,
+            "diluted": 17528214
+        }
+    },
+    {
+        "report_date": "2021-09-25",
+        "section": "profit_and_loss",
+        "net_sales": {
+            "products": 297392,
+            "services": 68425,
+            "total": 365817
+        },
+        "cost_of_sales": {
+            "products": 192266,
+            "services": 20715,
+            "total": 212981
+        },
+        "gross_margin": 152836,
+        "operating_expenses": {
+            "research_and_development": 21914,
+            "selling_general_and_administrative": 21973,
+            "total": 43887
+        },
+        "operating_income": 108949,
+        "other_income_or_expense_net": 258,
+        "income_before_tax": 109207,
+        "tax_provision": 14527,
+        "net_income": 94680,
+        "earnings_per_share": {
+            "basic": 5.67,
+            "diluted": 5.61
+        },
+        "shares_used_in_computing_eps": {
+            "basic": 16701272,
+            "diluted": 16864919
+        }
+    },
+    {
+        "report_date": "2022-09-24",
+        "section": "profit_and_loss",
+        "net_sales": {
+            "products": 316199,
+            "services": 78129,
+            "total": 394328
+        },
+        "cost_of_sales": {
+            "products": 201471,
+            "services": 22075,
+            "total": 223546
+        },
+        "gross_margin": 170782,
+        "operating_expenses": {
+            "research_and_development": 26251,
+            "selling_general_and_administrative": 25094,
+            "total": 51345
+        },
+        "operating_income": 119437,
+        "other_income_or_expense_net": -334,
+        "income_before_tax": 119103,
+        "tax_provision": 19300,
+        "net_income": 99803,
+        "earnings_per_share": {
+            "basic": 6.15,
+            "diluted": 6.11
+        },
+        "shares_used_in_computing_eps": {
+            "basic": 16215963,
+            "diluted": 16325819
+        }
+    },
+    {
+        "report_date": "2023-09-30",
+        "section": "profit_and_loss",
+        "net_sales": {
+            "products": 298085,
+            "services": 85200,
+            "total": 383285
+        },
+        "cost_of_sales": {
+            "products": 189282,
+            "services": 24855,
+            "total": 214137
+        },
+        "gross_margin": 169148,
+        "operating_expenses": {
+            "research_and_development": 29915,
+            "selling_general_and_administrative": 24932,
+            "total": 54847
+        },
+        "operating_income": 114301,
+        "other_income_or_expense_net": -565,
+        "income_before_tax": 113736,
+        "tax_provision": 16741,
+        "net_income": 96995,
+        "earnings_per_share": {
+            "basic": 6.16,
+            "diluted": 6.13
+        },
+        "shares_used_in_computing_eps": {
+            "basic": 15744231,
+            "diluted": 15812547
+        }
+    },
+    {
+        "report_date": "2024-09-28",
+        "section": "profit_and_loss",
+        "net_sales": {
+            "products": 294866,
+            "services": 96169,
+            "total": 391035
+        },
+        "cost_of_sales": {
+            "products": 185233,
+            "services": 25119,
+            "total": 210352
+        },
+        "gross_margin": 180683,
+        "operating_expenses": {
+            "research_and_development": 31370,
+            "selling_general_and_administrative": 26097,
+            "total": 57467
+        },
+        "operating_income": 123216,
+        "other_income_or_expense_net": 269,
+        "income_before_tax": 123485,
+        "tax_provision": 29749,
+        "net_income": 93736,
+        "earnings_per_share": {
+            "basic": 6.11,
+            "diluted": 6.08
+        },
+        "shares_used_in_computing_eps": {
+            "basic": 15343783,
+            "diluted": 15408095
+        }
+    }
+]
