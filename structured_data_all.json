@@ -30,6 +30,10 @@
         "shares_used_in_computing_eps": {
             "basic": 6085572,
             "diluted": 6122663
+        },
+        "metadata": {
+            "page_number": 41,
+            "source": "documents_04_06/apple-2016.pdf"
         }
     },
     {
@@ -63,6 +67,10 @@
         "shares_used_in_computing_eps": {
             "basic": 5753421,
             "diluted": 5793069
+        },
+        "metadata": {
+            "page_number": 41,
+            "source": "documents_04_06/apple-2016.pdf"
         }
     },
     {
@@ -96,6 +104,10 @@
         "shares_used_in_computing_eps": {
             "basic": 5470820,
             "diluted": 5500281
+        },
+        "metadata": {
+            "page_number": 40,
+            "source": "documents_04_06/apple-2018.pdf"
         }
     },
     {
@@ -129,6 +141,10 @@
         "shares_used_in_computing_eps": {
             "basic": 5217242,
             "diluted": 5251692
+        },
+        "metadata": {
+            "page_number": 40,
+            "source": "documents_04_06/apple-2018.pdf"
         }
     },
     {
@@ -162,6 +178,10 @@
         "shares_used_in_computing_eps": {
             "basic": 19821510,
             "diluted": 20000435
+        },
+        "metadata": {
+            "page_number": 33,
+            "source": "documents_04_06/apple-2020.pdf"
         }
     },
     {
@@ -195,6 +215,10 @@
         "shares_used_in_computing_eps": {
             "basic": 18471336,
             "diluted": 18595651
+        },
+        "metadata": {
+            "page_number": 33,
+            "source": "documents_04_06/apple-2020.pdf"
         }
     },
     {
@@ -228,6 +252,10 @@
         "shares_used_in_computing_eps": {
             "basic": 17352119,
             "diluted": 17528214
+        },
+        "metadata": {
+            "page_number": 31,
+            "source": "documents_04_06/apple-2022.pdf"
         }
     },
     {
@@ -261,6 +289,10 @@
         "shares_used_in_computing_eps": {
             "basic": 16701272,
             "diluted": 16864919
+        },
+        "metadata": {
+            "page_number": 31,
+            "source": "documents_04_06/apple-2022.pdf"
         }
     },
     {
@@ -294,6 +326,10 @@
         "shares_used_in_computing_eps": {
             "basic": 16215963,
             "diluted": 16325819
+        },
+        "metadata": {
+            "page_number": 31,
+            "source": "documents_04_06/apple-2022.pdf"
         }
     },
     {
@@ -327,6 +363,10 @@
         "shares_used_in_computing_eps": {
             "basic": 15744231,
             "diluted": 15812547
+        },
+        "metadata": {
+            "page_number": 31,
+            "source": "documents_04_06/apple-2024.pdf"
         }
     },
     {
@@ -360,6 +400,10 @@
         "shares_used_in_computing_eps": {
             "basic": 15343783,
             "diluted": 15408095
+        },
+        "metadata": {
+            "page_number": 31,
+            "source": "documents_04_06/apple-2024.pdf"
         }
     }
 ]
